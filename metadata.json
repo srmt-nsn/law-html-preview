@@ -1,7 +1,7 @@
 {
   "meta": {
     "build": {
-      "build-date": "2024-03-27",
+      "build-date": "2024-04-17",
       "codified-date": "2023-09-13",
       "platform": {
         "reproducible": "false",
@@ -13,7 +13,7 @@
           "name": "srmt-nsn/law-xml"
         },
         {
-          "commit": "ce8fc54363d9dfb5666f5732870dec76c3c22338",
+          "commit": "3d68805a92ead05d985e6a666e8c1c8a9a42f3f5",
           "name": "srmt-nsn/law-xml-codified-preview"
         }
       ]
