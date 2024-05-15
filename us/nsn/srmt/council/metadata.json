@@ -9,11 +9,11 @@
       },
       "repositories": [
         {
-          "commit": "f4e258f6ac9f06cff1a277c97c6c6fef6966bd49",
+          "commit": "e81299b3a153bc24e03175ae7614f31ac6a0c7ba",
           "name": "srmt-nsn/law-xml"
         },
         {
-          "commit": "3defc1980bf4fc9a31d5b814b1595d7623cc2193",
+          "commit": "e917c4dbdcb5e7e2e65510dfdd454e1ace5c74e6",
           "name": "srmt-nsn/law-xml-codified-preview"
         }
       ]
