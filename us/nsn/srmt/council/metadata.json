@@ -1,7 +1,7 @@
 {
   "meta": {
     "build": {
-      "build-date": "2024-07-12",
+      "build-date": "2024-08-06",
       "codified-date": "2024-06-02",
       "platform": {
         "reproducible": "false",
@@ -9,11 +9,11 @@
       },
       "repositories": [
         {
-          "commit": "c55ce87e4734e50bfa61856d2559a0110c26533e",
+          "commit": "44dc4b5c840a553c552dfe517161a4c3dd6c7070",
           "name": "srmt-nsn/law-xml"
         },
         {
-          "commit": "6e7b208d0f30f1ad0afae8f209ce763e02c0a7c4",
+          "commit": "3af97fda18ebc8ee079c31d460fd5577a545c729",
           "name": "srmt-nsn/law-xml-codified-preview"
         }
       ]
@@ -21,6 +21,7 @@
     "canonical-urls": {
       "html": "",
       "html-bulk": "https://github.com/srmt-nsn/law-html",
+      "law-git": "https://github.com/srmt-nsn/law.git",
       "static-assets": "https://github.com/srmt-nsn/law-static-assets",
       "xml-bulk": "https://github.com/srmt-nsn/law-xml"
     },
