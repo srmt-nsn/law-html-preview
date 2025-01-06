@@ -11,6 +11,10 @@
         {
           "commit": "bd36b9a59ce9878dd7c985a3179a1881990236cd",
           "name": "srmt-nsn/law-xml"
+        },
+        {
+          "commit": "765f1caaecdf9232313ad4ef40ef158c1e6f1fd9",
+          "name": "srmt-nsn/law-xml-codified-preview"
         }
       ]
     },
