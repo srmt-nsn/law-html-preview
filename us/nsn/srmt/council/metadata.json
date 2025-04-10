@@ -1,13 +1,11 @@
 {
   "meta": {
     "build": {
-      "build-date": "2025-04-08",
-      "ci-build-number": "1.0.22",
-      "ci-project": "srmt-nsn/law-xml",
-      "codified-date": "2024-06-02",
+      "build-date": "2025-04-09",
+      "codified-date": "2025-01-23",
       "platform": {
         "reproducible": "false",
-        "version": "2.15.17"
+        "version": "2.15.18"
       },
       "repositories": [
         {
@@ -15,7 +13,7 @@
           "name": "srmt-nsn/law-xml"
         },
         {
-          "commit": "e630e2adf4a6d953043a354640a870c4b178c43d",
+          "commit": "8ee52e52cc0c63394f990ba7cd184a1eb768cac4",
           "name": "srmt-nsn/law-xml-codified-preview"
         }
       ]
